@@ -1,3 +1,3 @@
 # git-exercise
 Altcademy exercise 
-Hello World
+hello world
